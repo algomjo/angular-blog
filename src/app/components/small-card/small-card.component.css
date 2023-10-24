@@ -13,6 +13,9 @@
 	width: 200px;
 	min-width: 200px;
 	margin-right: 20px;
+	box-shadow: -1px 5px 13px 9px rgba(70,64,161,0.64);
+	-webkit-box-shadow: -1px 5px 13px 9px rgba(70,64,161,0.64);
+	-moz-box-shadow: -1px 5px 13px 9px rgba(70,64,161,0.64);
 }
 
 .small-card__title{
